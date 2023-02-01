@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mobyscript" target="blank"><img src="https://img.shields.io/twitter/follow/mobyscript?logo=twitter&style=for-the-badge" alt="mobyscript" /></a> </p>
 
-- 🧑🏽‍💻 I’m currently working on **Music Player**
+- 🧑🏽‍💻 I’m currently working on a **Music Player**
 
 - 👨🏽‍🎓 I’m currently learning **Python and Machine Learning**
 
