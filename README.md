@@ -1,6 +1,6 @@
 <h1 align="center">Yoo 😎, name's Moby !</h1>
 <h3 align="center">Expressing my goals with algorithms.</h3>
-<img align="right" alt="" width="400" src="https://i.pinimg.com/564x/08/9b/64/089b64bd2e322260dd8c71ae6ff93c34.jpg">
+<img align="center" alt="" width="400" src="https://i.pinimg.com/564x/08/9b/64/089b64bd2e322260dd8c71ae6ff93c34.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobyscript&label=Profile%20views&color=0e9f04&style=flat" alt="mobyscript" /> </p>
 
