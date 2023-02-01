@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobyscript&label=Profile%20views&color=0e9f04&style=flat" alt="mobyscript" /> </p>
 
